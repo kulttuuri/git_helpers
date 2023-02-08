@@ -1,6 +1,8 @@
 # git_helpers
 This repository contains some helpful commands for using Git from the terminal, more proficiently.
 
+[Watch Video about this](https://youtu.be/ZvPycaThphw)
+
 ## Bash Commands
 
 Below are Bash aliases and functions that can be added to your ``~/.bash_profile`` file, should you be using the Bash shell.
