@@ -8,7 +8,7 @@ Below are Bash aliases and functions that can be added to your ``~/.bash_profile
 \# Alias gs to run the command git status faster   
 ```alias gs='git status'```   
 \# Alias gp to run the command git push faster   
-```alias gp='git push'```   
+```alias gpu='git push'```   
 \# Alias gpu to run the command git pull faster   
 ```alias gp='git pull'```   
 \# Alias ga to run the command git add . faster   
@@ -44,7 +44,7 @@ ZSH shell aliases and functions that can be added to your ``~/.zshrc`` file, sho
 \# Alias gs to run the command git status faster   
 ```alias gs='git status'```   
 \# Alias gp to run the command git push faster   
-```alias gp='git push'```   
+```alias gpu='git push'```   
 \# Alias gpu to run the command git pull faster   
 ```alias gp='git pull'```   
 \# Alias ga to run the command git add . faster   
